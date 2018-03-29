@@ -1,6 +1,8 @@
 {
     "rethinkdb": {
         "host": "localhost",
-            "port": 28015
+        "port": 28015,
+        "user": "admin",
+        "password": 84318703
     }
 }
