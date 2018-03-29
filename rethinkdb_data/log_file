@@ -1,0 +1,20 @@
+2018-03-29T10:28:02.199567249 0.061680s notice: Recursively removing directory /home/dobeis/projetos-atual/controle-de-objetivos-plat??o/teste-timeline/rethinkdb_data/tmp
+2018-03-29T10:28:02.203370593 0.065483s notice: Initializing directory /home/dobeis/projetos-atual/controle-de-objetivos-plat??o/teste-timeline/rethinkdb_data
+2018-03-29T10:28:02.203447443 0.065560s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/dobeis/projetos-atual/controle-de-objetivos-plat??o/teste-timeline/rethinkdb_data' did not already exist or is empty.)
+2018-03-29T10:28:02.203491380 0.065603s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-03-29T10:28:02.205899493 0.068014s notice: Running on Linux 4.13.0-37-generic x86_64
+2018-03-29T10:28:02.205942714 0.068055s notice: Loading data from directory /home/dobeis/projetos-atual/controle-de-objetivos-plat??o/teste-timeline/rethinkdb_data
+2018-03-29T10:28:02.243277060 0.105389s info: Automatically using cache size of 921 MB
+2018-03-29T10:28:02.243766838 0.105879s notice: Listening for intracluster connections on port 29015
+2018-03-29T10:28:02.244477901 0.106590s notice: Listening for client driver connections on port 28015
+2018-03-29T10:28:02.244588518 0.106700s notice: Listening for administrative HTTP connections on port 8080
+2018-03-29T10:28:02.244592074 0.106704s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-29T10:28:02.244595910 0.106708s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-29T10:28:02.244598381 0.106710s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-29T10:28:02.244604048 0.106716s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-03-29T10:28:02.244608201 0.106720s notice: Server ready, "dobeis_9x6" 1fd73f9a-3ad7-4565-93e4-ec4c26f90c80
+2018-03-29T10:28:36.426679586 34.288792s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2018-03-29T10:28:36.426835179 34.288948s notice: Shutting down client connections...
+2018-03-29T10:28:36.427121159 34.289233s notice: All client connections closed.
+2018-03-29T10:28:36.427137413 34.289249s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-03-29T10:28:36.427544092 34.289656s notice: Storage engine shut down.
